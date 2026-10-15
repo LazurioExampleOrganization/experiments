@@ -2,139 +2,141 @@
 
 Status: planned, waiting for human approval
 Experiment: `../specs/2026-05-23-agent-automation-desk.md`
-Owner: jannovak
+Owner: alexmorgan
 Prepared: 2026-05-23
 
-## Hypotéza
+## Hypothesis
 
-Nejrychlejší reputačně bezpečná cesta k prvnímu dolaru není autonomní bot ani
-marketplace bez audience. Je to malý placený checkout navázaný na ručně
-schválený warm outreach: jeden konkrétní B2B/ops proces, za který buyer zaplatí
-symbolický nebo pilotní poplatek, protože výstup může dostat rychle a bez
-produkční integrace.
+The fastest reputation-safe path to the first dollar is not an autonomous bot
+or a marketplace without an audience. It is a small paid checkout tied to
+manually approved warm outreach: one specific B2B/ops process for which a buyer
+pays a symbolic or pilot fee, because they can get the output quickly and
+without a production integration.
 
-## Internetový signál
+## Internet signal
 
-- Fiverr má veřejnou kategorii automations/workflows s tisíci výsledků,
-  nízkými entry offers a viditelnou poptávkou po Make, Zapier, n8n a AI agent
-  automatizacích.
-- Fiverr Business Trends Index 2026 uvádí silný růst hledání AI agentů,
-  Make.com a workflow specialistů.
-- Upwork řadí AI & Automation mezi hlavní work categories a veřejné job posty
-  ukazují poptávku po Zapier/Make/OpenAI implementátorech.
-- PromptBase umožňuje prodávat AI prompts a agent skills, ale marketplace
-  discovery je méně jistá než přímý warm buyer.
-- Ko-fi/Gumroad umožňují rychlý checkout pro digitální produkt nebo tip, ale
-  bez distribuce není přes noc realistický organický prodej.
+- Fiverr has a public automations/workflows category with thousands of
+  results, low entry offers and visible demand for Make, Zapier, n8n and AI
+  agent automations.
+- The Fiverr Business Trends Index 2026 reports strong growth in searches for
+  AI agents, Make.com and workflow specialists.
+- Upwork lists AI & Automation among its main work categories, and public job
+  posts show demand for Zapier/Make/OpenAI implementers.
+- PromptBase lets you sell AI prompts and agent skills, but marketplace
+  discovery is less certain than a direct warm buyer.
+- Ko-fi/Gumroad allow a fast checkout for a digital product or a tip, but
+  without distribution an organic sale overnight is not realistic.
 
-## Kopírovaný mechanismus, ne identita
+## Copy the mechanism, not the identity
 
-Kopírujeme ekonomický mechanismus:
+We copy the economic mechanism:
 
-- malý jasný výsledek
-- fixed price nebo symbolický deposit
-- jedna aktivní request fronta
-- rychlé dodání
-- lidské schválení před externí akcí
+- a small, clear outcome
+- a fixed price or a symbolic deposit
+- one active request queue
+- fast delivery
+- human approval before any external action
 
-Nekopírujeme cizí brand, copy, gig title, zákaznická data, recenze ani
-marketplace reputaci.
+We do not copy anyone else's brand, copy, gig title, customer data, reviews or
+marketplace reputation.
 
-## Navržený noční run
+## Proposed overnight run
 
-### Nabídka
+### Offer
 
-Pracovní název: Agent Automation Desk: 48h AI ops triage.
+Working name: Agent Automation Desk: 48h AI ops triage.
 
-Buyer pošle jeden ruční nebo opakovaný ops/research/reporting proces.
-AgentMint do 48 hodin dodá:
+The buyer sends one manual or repeated ops/research/reporting process. Within
+48 hours, Lazurio Example Organization delivers:
 
-- fit / no-fit verdikt,
-- nejmenší užitečný výstup,
-- první automation blueprint,
-- rizika a co nedělat,
-- návrh, jestli má cenu placený pilot.
+- a fit / no-fit verdict,
+- the smallest useful output,
+- a first automation blueprint,
+- risks and what not to do,
+- a recommendation on whether a paid pilot is worth it.
 
-### Cena k testu
+### Test price
 
-Preferovaná ostrá cena:
+Preferred live price:
 
-- [CENA PILOTU] za 14denní pilot (fiktivní ilustrativní hodnota).
+- [PILOT PRICE] for a 14-day pilot (fictional illustrative value).
 
-Fallback pro první dolar:
+Fallback for the first dollar:
 
-- [ZÁLOHA] refundable deposit za 48h triage, který se odečte z pilotu.
+- [DEPOSIT] refundable deposit for a 48h triage, deducted from the pilot.
 
-Fallback používej jen pokud je psychologicky potřeba snížit friction; cílem
-zůstává placený pilot, ne low-ticket template business.
+Use the fallback only if friction needs to be lowered for psychological
+reasons; the goal remains a paid pilot, not a low-ticket template business.
 
-### Kanál
+### Channel
 
-Pouze ručně schválený warm outreach:
+Manually approved warm outreach only:
 
-- founder nebo owner malé B2B firmy,
-- agentura,
-- consultant/freelancer s opakovaným research/reporting workflow,
-- kontakt, kde už existuje základní důvěra.
+- a founder or owner of a small B2B company,
+- an agency,
+- a consultant/freelancer with a repeated research/reporting workflow,
+- a contact where basic trust already exists.
 
-Nepoužívat masový outbound, scraping, fake urgency ani automatické odesílání.
+Do not use mass outbound, scraping, fake urgency or automatic sending.
 
-## Approval gate před spuštěním
+## Approval gate before the start
 
-Před jakoukoliv externí akcí musí Jan schválit:
+Before any external action, Alex must approve:
 
-- finální cenu: pilot / deposit / obojí,
-- checkout nástroj: Ko-fi, Gumroad, Stripe Payment Link nebo ruční faktura,
-- 10-20 konkrétních lidí nebo firem,
-- finální znění zprávy,
-- zda se smí odeslat dnes v noci.
+- the final price: pilot / deposit / both,
+- the checkout tool: Ko-fi, Gumroad, Stripe Payment Link or a manual invoice,
+- 10-20 specific people or companies,
+- the final wording of the message,
+- whether it may be sent tonight.
 
-## Schválené akce
+## Approved actions
 
-- Schválený ICP:
-- Schválený prospect list:
-- Schválený outreach copy:
-- Schválený checkout:
-- Schválený budget: 0 Kč paid ads, 0 Kč paid tools
-- Schválené externí akce:
+- Approved ICP:
+- Approved prospect list:
+- Approved outreach copy:
+- Approved checkout:
+- Approved budget: 0 CZK paid ads, 0 CZK paid tools
+- Approved external actions:
 
-## Aktivita
+## Activity
 
-| Datum | Akce | Výsledek | Poznámka |
+| Date | Action | Result | Note |
 |---|---|---|---|
-| 2026-05-23 | Internetový průzkum rychlých monetizačních mechanismů | AI/automation service + direct checkout vychází jako nejrychlejší bezpečný tah | Externí spuštění čeká na approval |
+| 2026-05-23 | Internet research of fast monetization mechanisms | An AI/automation service + direct checkout comes out as the fastest safe move | The external launch waits for approval |
 
-## Metriky
+## Metrics
 
-- Počet schválených oslovení:
-- Odpovědi:
+- Number of approved outreach messages:
+- Replies:
 - Checkout clicks:
 - Deposits:
-- Discovery cally:
+- Discovery calls:
 - Paid pilots:
 - Revenue / deposits:
-- Delivery čas:
+- Delivery time:
 
 ## Stop condition
 
-Zastavit nebo změnit run, pokud:
+Stop or change the run if:
 
-- po 20 schválených osloveních nejsou aspoň 3 odpovědi nebo 1 discovery call,
-- lidé chápou nabídku jako obecné AI konzultace,
-- poptávka míří na custom software projekt mimo 8h delivery budget,
-- první odpovědi ukážou, že deposit je spíš překážka než kvalifikační filtr.
+- after 20 approved outreach messages there are not at least 3 replies or 1
+  discovery call,
+- people understand the offer as generic AI consulting,
+- demand points to a custom software project outside the 8h delivery budget,
+- the first replies show that the deposit is more of an obstacle than a
+  qualifying filter.
 
 ## Scale condition
 
-Pokračovat, pokud:
+Continue if:
 
-- někdo zaplatí deposit nebo pilot,
-- nebo 3 kvalifikované odpovědi popíšou stejný opakovaný proces,
-- nebo 1 buyer explicitně chce scope/fakturu za pilotní cenu.
+- someone pays a deposit or a pilot,
+- or 3 qualified replies describe the same repeated process,
+- or 1 buyer explicitly asks for a scope/invoice at the pilot price.
 
-## Rozhodnutí
+## Decision
 
 - Stop / repeat / scale / pivot:
-- Proč:
-- Co jsme se naučili:
-- Další krok:
+- Why:
+- What we learned:
+- Next step:

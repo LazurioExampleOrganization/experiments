@@ -3,50 +3,51 @@
 Status: template
 Experiment: `../specs/2026-05-23-agent-automation-desk.md`
 
-## Cíl callu
+## Goal of the call
 
-Zjistit, jestli má zákazník opakovaný ruční proces, který je dost bolestivý,
-aby zaplatil za 14denní pilot.
+Find out whether the customer has a repeated manual process that is painful
+enough for them to pay for a 14-day pilot.
 
-## Otázky
+## Questions
 
-1. Jaký ruční research, reporting nebo ops úkol se vám opakuje každý týden?
-2. Kdo ho dnes dělá a kolik času to bere?
-3. Co se stane, když se to neudělá nebo udělá pozdě?
-4. Jak dnes poznáte, že výstup je dobrý?
-5. Jaká data nebo podklady jsou k tomu potřeba?
-6. Je něco z toho citlivé, právně omezené nebo vázané na klientský souhlas?
-7. Jaký nejmenší užitečný výstup by dával smysl dodat do 48 hodin?
-8. Kdo by musel schválit pilot?
-9. Pokud by pilot za 14 dní ušetřil čas nebo zlepšil kvalitu, jaká cena by byla
-   rozumná pro pokračování?
+1. Which manual research, reporting or ops task repeats for you every week?
+2. Who does it today and how much time does it take?
+3. What happens if it is not done or is done late?
+4. How do you tell today that the output is good?
+5. What data or materials does it need?
+6. Is any of it sensitive, legally restricted or tied to client consent?
+7. What smallest useful output would make sense to deliver within 48 hours?
+8. Who would have to approve the pilot?
+9. If the pilot saved time or improved quality within 14 days, what price would
+   be reasonable for continuing?
 
-## Kvalifikace
+## Qualification
 
-Silný signál:
+Strong signal:
 
-- proces se opakuje aspoň týdně
-- stojí konkrétní čas nebo peníze
-- buyer umí popsat dobrý výstup
-- existují dostupná data
-- první výstup jde dodat bez produkční integrace
-- buyer akceptuje paid pilot
+- the process repeats at least weekly
+- it costs specific time or money
+- the buyer can describe a good output
+- the data is available
+- the first output can be delivered without a production integration
+- the buyer accepts a paid pilot
 
-Slabý signál:
+Weak signal:
 
-- proces je jednorázový
-- buyer chce obecnou AI inspiraci
-- musí se sahat do citlivých systémů hned na začátku
-- úspěch závisí na masovém outboundu nebo garantovaném revenue
+- the process is one-off
+- the buyer wants general AI inspiration
+- sensitive systems have to be touched right at the start
+- success depends on mass outbound or guaranteed revenue
 
 ## Close
 
-Pokud fit existuje:
+If there is a fit:
 
-"Dává mi smysl vzít to jako malý pilot. Pošlu ti scope: co dodáme, co
-potřebujeme od tebe, co dělat nebudeme a jak poznáme, jestli to stálo za to."
+"It makes sense to me to take this on as a small pilot. I will send you a
+scope: what we will deliver, what we need from you, what we will not do and how
+we will know whether it was worth it."
 
-Pokud fit neexistuje:
+If there is no fit:
 
-"Tohle bych teď nebral jako pilot. Buď je to moc custom, nebo by první výstup
-nešel dodat bezpečně bez větší integrace."
+"I would not take this on as a pilot right now. Either it is too custom, or the
+first output could not be delivered safely without a bigger integration."

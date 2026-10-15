@@ -1,235 +1,245 @@
 # First dollar channel feasibility
 
 Status: draft verdict
-Owner: jannovak
+Owner: alexmorgan
 Verified: 2026-05-23
 
-## Cíl
+## Goal
 
-Prověřit, které rychlé online monetizační cesty mají šanci získat první dolar
-pro AgentMint přes noc nebo během 24-48 hodin, aniž bychom kopírovali cizí
-identitu, spouštěli spam, obcházeli ToS nebo slibovali neověřené výsledky.
+Check which fast online monetization paths have a chance of earning the first
+dollar for Lazurio Example Organization overnight or within 24-48 hours,
+without copying anyone else's identity, sending spam, bypassing ToS or
+promising unverified results.
 
-## Kritéria
+## Criteria
 
-- Dá se spustit bez stavby produktu?
-- Dá se přijmout platba dnes?
-- Existuje aktuální poptávkový signál?
-- Potřebuje marketplace reputaci, nebo stačí warm distribuce?
-- Jaké jsou legal, ToS a reputační guardrails?
+- Can it start without building a product?
+- Can a payment be accepted today?
+- Is there a current demand signal?
+- Does it need marketplace reputation, or is warm distribution enough?
+- What are the legal, ToS and reputation guardrails?
 
-## Verdikt
+## Verdict
 
-| Cesta | Funkčnost dnes | Poptávkový signál | Platební friction | Distribuce | Verdikt |
+| Path | Works today | Demand signal | Payment friction | Distribution | Verdict |
 |---|---|---|---|---|---|
-| Direct Agent Automation Desk + Stripe/Ko-fi checkout | Vysoká | Vysoký | Nízký, pokud má Jan aktivní Stripe/Ko-fi/PayPal | Warm outreach | Testovat první |
-| Ko-fi/Gumroad low-ticket digital product | Střední | Střední | Nízký | Slabá bez audience | Použít jen jako checkout/support asset |
-| PromptBase prompt/skill listing | Střední | Střední | Střední, čeká na platform approval | Marketplace + vlastní link | Odložit, není overnight |
-| Fiverr automation gig | Střední | Vysoký | Nízký po setupu | Marketplace discovery, ale nový seller je pomalý | Založit později jako inbound kanál |
-| Upwork proposals | Nízká pro dnešní noc | Vysoký | Connects + account/proposal friction | Marketplace bidding | Nepouštět teď, vhodné až s profilem a case study |
-| Polymarket / prediction markets | Nízká jako revenue engine | Vysoký objem trhu, ale bez našeho edge | Trading capital + regulatory/KYC friction | Market microstructure, ne zákaznická distribuce | Nepouštět s reálnými penězi; použít jen paper-trade/data research |
+| Direct Agent Automation Desk + Stripe/Ko-fi checkout | High | High | Low, if Alex has an active Stripe/Ko-fi/PayPal | Warm outreach | Test first |
+| Ko-fi/Gumroad low-ticket digital product | Medium | Medium | Low | Weak without an audience | Use only as a checkout/support asset |
+| PromptBase prompt/skill listing | Medium | Medium | Medium, waits for platform approval | Marketplace + own link | Defer, not overnight |
+| Fiverr automation gig | Medium | High | Low after setup | Marketplace discovery, but a new seller is slow | Set up later as an inbound channel |
+| Upwork proposals | Low for tonight | High | Connects + account/proposal friction | Marketplace bidding | Do not start now; suitable later with a profile and a case study |
+| Polymarket / prediction markets | Low as a revenue engine | High market volume, but without our edge | Trading capital + regulatory/KYC friction | Market microstructure, not customer distribution | Do not run with real money; use only for paper-trade/data research |
 
 ## 1. Direct Agent Automation Desk + checkout
 
-### Mechanismus
+### Mechanism
 
-Nabídnout konkrétní 48h AI ops triage nebo 14denní pilot fiktivním ukázkovým zájemcům:
-zákazník pošle jeden ruční proces a AgentMint vrátí fit/no-fit verdikt,
-automation blueprint a návrh prvního užitečného výstupu.
+Offer a concrete 48h AI ops triage or a 14-day pilot to fictional sample
+prospects: the customer sends one manual process and the company returns a
+fit/no-fit verdict, an automation blueprint and a proposal for the first useful
+output.
 
 ### Evidence
 
-- Stripe Payment Links umožňují vytvořit no-code platební stránku a sdílet link
-  bez vlastního webu.
-- Stripe je podle oficiálního global availability seznamu dostupný v Czech
-  Republic.
-- Fiverr veřejně ukazuje velkou kategorii automations/workflows a konkrétní
+- Stripe Payment Links let you create a no-code payment page and share a link
+  without your own website.
+- According to the official global availability list, Stripe is available in
+  the Czech Republic.
+- Fiverr publicly shows a large automations/workflows category and specific
   AI/Make/Zapier/n8n offers.
-- Fiverr Business Trends Index 2026 uvádí růst poptávky po AI agentech,
-  workflow nástrojích a Make.com specialistech.
+- The Fiverr Business Trends Index 2026 reports growing demand for AI agents,
+  workflow tools and Make.com specialists.
 
 ### Guardrails
 
-- Žádný masový outbound.
-- Žádné garantované leady, revenue nebo sales cally.
-- Žádná práce s klientskými účty nebo citlivými daty bez samostatného approvalu.
-- Každá externí zpráva a checkout link čeká na lidské potvrzení.
+- No mass outbound.
+- No guaranteed leads, revenue or sales calls.
+- No work with client accounts or sensitive data without a separate approval.
+- Every external message and checkout link waits for human confirmation.
 
-### Verdikt
+### Verdict
 
-Nejlepší cesta k prvnímu dolaru. Nevyžaduje marketplace ranking ani produkt.
-Skutečná překážka není technologie, ale schválený checkout, prospect list a
-odeslání.
+The best path to the first dollar. It needs neither a marketplace ranking nor a
+product. The real obstacle is not technology but an approved checkout, a
+prospect list and the sending itself.
 
-## 2. Ko-fi nebo Gumroad low-ticket digital product
+## 2. Ko-fi or Gumroad low-ticket digital product
 
-### Mechanismus
+### Mechanism
 
-Prodávat malý digitální produkt: checklist, prompt pack, AI ops triage worksheet
-nebo "first automation brief" template.
+Sell a small digital product: a checklist, a prompt pack, an AI ops triage
+worksheet or a "first automation brief" template.
 
 ### Evidence
 
-- Ko-fi Shop umožňuje prodávat digitální produkty bez listing fee; free plan
-  bere 5% service fee a platby jdou přes PayPal nebo Stripe.
-- Gumroad umí rychlý digitální checkout, ale podle help centra účtuje přímým
-  prodejům 10% + 0.50 USD plus payment processing; marketplace sales mají 30%
-  fee.
-- Gumroad payout dokumentace uvádí Czech Republic jako podporovanou payout
-  zemi.
+- Ko-fi Shop lets you sell digital products without a listing fee; the free
+  plan takes a 5% service fee and payments go through PayPal or Stripe.
+- Gumroad offers a fast digital checkout, but according to its help center it
+  charges direct sales 10% + 0.50 USD plus payment processing; marketplace
+  sales carry a 30% fee.
+- The Gumroad payout documentation lists the Czech Republic as a supported
+  payout country.
 
 ### Guardrails
 
-- Neprezentovat AI-generovaný template jako vlastní ručně ověřený výsledek,
-  pokud není opravdu otestovaný.
-- Neprodávat PLR, zakázaný obsah, services skryté jako digitální produkt nebo
-  věci v rozporu s payment processor pravidly.
+- Do not present an AI-generated template as your own manually verified
+  result unless it has really been tested.
+- Do not sell PLR, prohibited content, services disguised as a digital product
+  or anything that conflicts with payment processor rules.
 
-### Verdikt
+### Verdict
 
-Technicky funkční, ale přes noc slabé bez audience. Hodí se jako checkout pro
-deposit nebo doplněk k direct outreach, ne jako samostatný noční engine.
+Technically workable, but weak overnight without an audience. Useful as a
+checkout for a deposit or as an add-on to direct outreach, not as a standalone
+overnight engine.
 
 ## 3. PromptBase prompt/skill listing
 
-### Mechanismus
+### Mechanism
 
-Zalistovat AI prompt nebo `SKILL.md` workflow jako prodejný asset.
+List an AI prompt or a `SKILL.md` workflow as a sellable asset.
 
 ### Evidence
 
-- PromptBase umožňuje prodávat AI prompts nebo agent skills (`SKILL.md`).
-- PromptBase uvádí 0% fees přes vlastní link a 20% fee přes marketplace.
-- PromptBase přijímá jen prompt templates s high use-case faktorem, anglicky,
-  bez plagiarismu, unsafe obsahu, model-rule bypassu nebo AI-generated promptů.
+- PromptBase lets you sell AI prompts or agent skills (`SKILL.md`).
+- PromptBase states 0% fees through your own link and a 20% fee through the
+  marketplace.
+- PromptBase accepts only prompt templates with a high use-case factor, in
+  English, without plagiarism, unsafe content, model-rule bypasses or
+  AI-generated prompts.
 
 ### Guardrails
 
-- Vytvořit skutečně originální workflow template, ne přebalený veřejný prompt.
-- Počítat s approval friction a platform pravidly.
+- Create a truly original workflow template, not a repackaged public prompt.
+- Expect approval friction and platform rules.
 
-### Verdikt
+### Verdict
 
-Zajímavé pro pozdější "agent skill marketplace" směr, ale není to spolehlivá
-overnight cesta k prvnímu dolaru.
+Interesting for a later "agent skill marketplace" direction, but not a reliable
+overnight path to the first dollar.
 
 ## 4. Fiverr automation gig
 
-### Mechanismus
+### Mechanism
 
-Založit gig pro malou AI/automation službu: Make/Zapier/n8n audit, workflow
-blueprint, nebo fix jednoho malého automation problému.
+Set up a gig for a small AI/automation service: a Make/Zapier/n8n audit, a
+workflow blueprint, or a fix for one small automation problem.
 
 ### Evidence
 
-- Fiverr Automations & Workflows má veřejně tisíce výsledků a nízké entry
-  offers v jednotkách až desítkách EUR.
-- Fiverr oficiálně podporuje AI workflow služby, ale vyžaduje dodržení AI,
-  privacy a third-party ToS pravidel.
-- Nový seller musí projít onboardingem a vytvořit gig na desktopu; nový seller
-  má omezený počet gigů.
-- Fiverr earnings page ukazuje příklad, kde ze 20 USD objednávky seller dostane
-  16 USD, tedy marketplace cut je významný a musí být započítaný do cen.
+- Fiverr Automations & Workflows publicly shows thousands of results and low
+  entry offers ranging from single digits to tens of EUR.
+- Fiverr officially supports AI workflow services, but requires compliance with
+  AI, privacy and third-party ToS rules.
+- A new seller must complete onboarding and create the gig on desktop; a new
+  seller has a limited number of gigs.
+- The Fiverr earnings page shows an example where the seller receives 16 USD
+  from a 20 USD order, so the marketplace cut is significant and must be
+  factored into prices.
 
-### Doporučený gig
+### Recommended gig
 
-Entry offer nemá být "postavím AI agenta", ale úzká triage služba:
+The entry offer should not be "I will build an AI agent" but a narrow triage
+service:
 
-- Basic: [BASIC] za fit/no-fit verdikt jednoho workflow.
-- Standard: [STANDARD] za automation blueprint.
-- Premium: [PREMIUM] za prototype plan + handoff.
+- Basic: [BASIC] for a fit/no-fit verdict on one workflow.
+- Standard: [STANDARD] for an automation blueprint.
+- Premium: [PREMIUM] for a prototype plan + handoff.
 
-Draft je připravený v `modules/experiments/assets/fiverr-agent-automation-gig-draft.md`.
+The draft is ready in `workspace/experiments/assets/fiverr-agent-automation-gig-draft.md`.
 
 ### Guardrails
 
-- Nevytvářet gig pro scraping proti ToS, spam, fake engagement, deepfakes nebo
-  manipulativní automatizaci.
-- Neslibovat "AI agent will make revenue".
-- Držet komunikaci a platbu uvnitř Fiverru, pokud se platforma použije.
+- Do not create a gig for scraping against ToS, spam, fake engagement,
+  deepfakes or manipulative automation.
+- Do not promise "AI agent will make revenue".
+- Keep communication and payment inside Fiverr if the platform is used.
 
-### Verdikt
+### Verdict
 
-Funkční jako budoucí inbound kanál, ale není nejlepší pro dnešní noc. Nový
-seller bez reputace může čekat dlouho na objednávku a dostane šum/spam.
-Spustit po direct checkout testu, nebo paralelně jen jako low-cost inbound
-surface, ne jako hlavní first-dollar bet.
+Workable as a future inbound channel, but not the best choice for tonight. A
+new seller without a reputation may wait a long time for an order and will get
+noise/spam. Launch it after the direct checkout test, or in parallel only as a
+low-cost inbound surface, not as the main first-dollar bet.
 
 ## 5. Upwork proposals
 
-### Mechanismus
+### Mechanism
 
-Reagovat na jobs typu Zapier/Make/OpenAI automation.
+Respond to jobs such as Zapier/Make/OpenAI automation.
 
 ### Evidence
 
-- Upwork řadí AI & Automation, Automation Experts a N8N Experts mezi hlavní
-  kategorie.
-- Upwork používá Connects pro návrhy; Basic account dostává omezený počet
-  free Connects měsíčně a další lze kupovat.
-- Upwork uvádí freelancer service fee na earnings; přesná výše se ukazuje před
-  návrhem nebo přijetím kontraktu.
+- Upwork lists AI & Automation, Automation Experts and N8N Experts among its
+  main categories.
+- Upwork uses Connects for proposals; a Basic account gets a limited number of
+  free Connects per month and more can be bought.
+- Upwork states a freelancer service fee on earnings; the exact amount is shown
+  before a proposal or before accepting a contract.
 
 ### Guardrails
 
-- Neposílat generické proposal spam.
-- Neobcházet marketplace komunikaci ani platby.
-- Nepoužívat externí automaty na hromadné proposal sending.
+- Do not send generic proposal spam.
+- Do not bypass marketplace communication or payments.
+- Do not use external bots for bulk proposal sending.
 
-### Verdikt
+### Verdict
 
-Dobré pro validaci poptávky a pozdější outbound, ale nízká šance na první dolar
-přes noc bez profilu, connects budgetu a case study.
+Good for validating demand and for later outbound, but a low chance of the
+first dollar overnight without a profile, a Connects budget and a case study.
 
 ## 6. Polymarket / prediction markets
 
-### Mechanismus
+### Mechanism
 
-Vydělat na predikčním trhu znamená mít lepší pravděpodobnostní odhad než trh,
-rychlejší exekuci, přístup k likviditě nebo market-making/reward edge. To není
-stejný typ monetizace jako prodej služby; je to trading s možností ztráty
-kapitálu.
+Making money on a prediction market means having a better probability estimate
+than the market, faster execution, access to liquidity or a
+market-making/reward edge. That is not the same type of monetization as
+selling a service; it is trading with a risk of losing capital.
 
 ### Evidence
 
-- Polymarket International geoblockuje řadu zemí včetně United States a
-  explicitně zakazuje VPN nebo podobné obcházení geografických omezení.
-- Polymarket US dokumentace popisuje US verzi jako CFTC-regulated exchange,
-  fiat-based, pro US residents, s identity verification před tradingem/API.
-- Polymarket US dokumentace uvádí taker/maker fee model; maker/taker a rebate
-  detaily se mohou měnit podle fee schedule.
-- Výzkum nad Polymarket NBA trhy ukazuje, že arbitrážní příležitosti existují,
-  ale jsou krátké, likviditou omezené a vhodné spíš pro rychlou exekuci než pro
-  ruční noční experiment.
+- Polymarket International geoblocks a number of countries, including the
+  United States, and explicitly prohibits VPNs or similar ways of bypassing
+  geographic restrictions.
+- The Polymarket US documentation describes the US version as a
+  CFTC-regulated exchange, fiat-based, for US residents, with identity
+  verification before trading/API.
+- The Polymarket US documentation states a taker/maker fee model; maker/taker
+  and rebate details may change according to the fee schedule.
+- Research on Polymarket NBA markets shows that arbitrage opportunities exist,
+  but they are short-lived, limited by liquidity and better suited to fast
+  execution than to a manual overnight experiment.
 
 ### Guardrails
 
-- Neobcházet geoblocking přes VPN.
-- Nepoužívat neveřejné, důvěrné nebo insider informace.
-- Nepouštět bota s reálnými penězi bez explicitního approvalu, loss limitu,
-  loggingu a právní/daňové kontroly.
-- Nezaměňovat referral, bonus nebo gambling/trading win za opakovatelný
-  business mechanismus AgentMintu.
+- Do not bypass geoblocking through a VPN.
+- Do not use non-public, confidential or insider information.
+- Do not run a bot with real money without explicit approval, a loss limit,
+  logging and a legal/tax review.
+- Do not mistake a referral, a bonus or a gambling/trading win for a repeatable
+  business mechanism of the company.
 
-### Verdikt
+### Verdict
 
-Nepouštět jako cestu k prvnímu dolaru přes noc. Polymarket je zajímavý jako
-datový zdroj a paper-trading sandbox pro agentní market research, ale bez
-ověřeného edge je reálný trading jen spekulace. Pokud ho zkoumat, tak nejdřív
-bez kapitálu: stáhnout veřejná market data, simulovat strategy po fees/slippage
-a teprve po vícedenním paper-trade výsledku rozhodnout.
+Do not run it as an overnight path to the first dollar. Polymarket is
+interesting as a data source and a paper-trading sandbox for agentic market
+research, but without a proven edge, real trading is just speculation. If it is
+explored, do it without capital first: download public market data, simulate
+strategies after fees/slippage and decide only after a multi-day paper-trade
+result.
 
-## Doporučený noční test
+## Recommended overnight test
 
-1. Vytvořit jeden checkout:
-   - primární: `Agent Automation Desk 14-day pilot` za [CENA PILOTU],
-   - fallback: `48h AI ops triage deposit` za [ZÁLOHA].
-2. Připravit seznam fiktivních ukázkových zájemců, ne studený scraping.
-3. Poslat krátkou zprávu jen po explicitním Janově schválení.
-4. Měřit jen tvrdé signály: deposit, paid pilot, "pošli fakturu", nebo
-   kvalifikovaný call.
+1. Create one checkout:
+   - primary: `Agent Automation Desk 14-day pilot` for [PILOT PRICE],
+   - fallback: `48h AI ops triage deposit` for [DEPOSIT].
+2. Prepare a list of fictional sample prospects, not cold scraping.
+3. Send a short message only after Alex's explicit approval.
+4. Measure only hard signals: a deposit, a paid pilot, "send the invoice", or
+   a qualified call.
 
-## Zdroje
+## Sources
 
 - Stripe Payment Links: https://stripe.com/us/payments/payment-links
 - Stripe global availability: https://stripe.com/global

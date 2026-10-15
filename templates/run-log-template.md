@@ -11,44 +11,44 @@ Status: template
 - Stop date:
 - Status: planned / running / stopped / repeated / scaled
 
-## Hypotéza
+## Hypothesis
 
-Krátce zopakuj hypotézu konkrétního runu.
+Briefly restate the hypothesis of this specific run.
 
-## Schválené akce
+## Approved actions
 
-- Schválený ICP:
-- Schválený prospect list:
-- Schválený outreach copy:
-- Schválený budget:
-- Schválené externí akce:
+- Approved ICP:
+- Approved prospect list:
+- Approved outreach copy:
+- Approved budget:
+- Approved external actions:
 
-## Aktivita
+## Activity
 
-| Datum | Akce | Výsledek | Poznámka |
+| Date | Action | Result | Note |
 |---|---|---|---|
 | YYYY-MM-DD |  |  |  |
 
-## Metriky
+## Metrics
 
-- Počet schválených oslovení:
-- Odpovědi:
-- Discovery cally:
+- Number of approved outreach messages:
+- Replies:
+- Discovery calls:
 - Paid pilots:
 - Revenue / deposits:
-- Delivery čas:
+- Delivery time:
 
 ## Evidence
 
-Ukládej jen anonymizovanou nebo bezpečně sdílitelnou evidenci.
+Store only anonymized or safely shareable evidence.
 
-- Odkazy:
-- Citace / shrnutí:
-- Screenshots: neukládat do Gitu, pokud obsahují osobní nebo klientská data
+- Links:
+- Quotes / summary:
+- Screenshots: do not store them in Git if they contain personal or client data
 
-## Rozhodnutí
+## Decision
 
 - Stop / repeat / scale / pivot:
-- Proč:
-- Co jsme se naučili:
-- Další krok:
+- Why:
+- What we learned:
+- Next step:

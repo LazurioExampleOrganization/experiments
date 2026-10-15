@@ -1,25 +1,25 @@
 # Agent Automation Desk outreach drafts (fictional sample)
 
-Status: fiktivní ukázka pro referenční Organizaci Lazuria; nic se neodesílá.
+Status: fictional sample for Lazurio's reference Organization; nothing is sent.
 Experiment: `specs/2026-05-23-agent-automation-desk.md`
 
 ## Guardrail
 
-Tyto zprávy jsou jen ilustrativní drafty s fiktivními zástupnými údaji. Agent
-je nesmí odeslat, publikovat ani vložit do externího nástroje bez explicitního
-potvrzení člověka a schváleného seznamu kontaktů.
+These messages are only illustrative drafts with fictional placeholder details.
+The agent must not send them, publish them or paste them into an external tool
+without explicit human confirmation and an approved contact list.
 
-## Ukázková varianta
+## Sample variant
 
-Subject: [předmět]
+Subject: [subject]
 
-Dobrý den, [jméno],
+Hello [name],
 
-[jedna věta o konkrétním opakovaném procesu, který by pilot vyřešil].
+[one sentence about a specific repeated process that the pilot would solve].
 
-[nabídka: rozsah pilotu, délka, [CENA PILOTU], žádné externí akce bez
-schválení].
+[offer: pilot scope, length, [PILOT PRICE], no external actions without
+approval].
 
-[jedna otázka, na kterou jde odpovědět ano/ne].
+[one question that can be answered yes/no].
 
-[podpis]
+[signature]

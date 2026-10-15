@@ -5,47 +5,47 @@ Experiment: `../specs/2026-05-23-agent-automation-desk.md`
 
 ## Request
 
-- Název requestu:
-- Kdo request zadává:
+- Request name:
+- Who submits the request:
 - Deadline:
-- Jaký výstup má vzniknout:
-- Jak bude vypadat dobrý výsledek:
+- What output should be produced:
+- What a good result will look like:
 
-## Kontext
+## Context
 
-- Proč je request důležitý:
-- Kdo výstup použije:
-- Jak se to dělá dnes:
-- Co se má zachovat:
-- Co se má zlepšit:
+- Why the request matters:
+- Who will use the output:
+- How it is done today:
+- What should be kept:
+- What should be improved:
 
-## Data a zdroje
+## Data and sources
 
-- Dodané podklady:
-- Veřejné zdroje, které smíme použít:
-- Zdroje, které použít nesmíme:
-- Citlivá data: ano/ne
-- Pokud ano, kde budou držena mimo Git:
+- Materials provided:
+- Public sources we may use:
+- Sources we must not use:
+- Sensitive data: yes/no
+- If yes, where it will be kept outside Git:
 
-## Hranice
+## Boundaries
 
-- Externí akce povoleny: ano/ne
-- Pokud ano, které přesně:
-- Potřebné účty nebo integrace:
-- Co vyžaduje zvláštní schválení:
+- External actions allowed: yes/no
+- If yes, which ones exactly:
+- Accounts or integrations needed:
+- What requires special approval:
 
 ## Delivery
 
-- Typ výstupu: research brief / enrichment / SOP / report / blueprint /
-  prototyp / jiné
-- Odhad velikosti: small / medium / needs scope
+- Output type: research brief / enrichment / SOP / report / blueprint /
+  prototype / other
+- Size estimate: small / medium / needs scope
 - Owner review:
-- Klient review:
+- Client review:
 
-## Výsledek
+## Result
 
-- Dodáno:
-- Odkaz na výstup:
-- Co se opakovalo:
-- Co by šlo automatizovat:
-- Co bylo out-of-scope:
+- Delivered:
+- Link to the output:
+- What repeated:
+- What could be automated:
+- What was out of scope:

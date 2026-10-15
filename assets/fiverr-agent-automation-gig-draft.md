@@ -44,9 +44,10 @@ Programming & Tech / Software Development / Automations & Workflows
 This is not a generic AI consultation and not a promise of revenue. It is a
 small, practical workflow triage for one business process.
 
-The buyer sends one manual or repetitive workflow. AgentMint reviews the goal,
-inputs, current tools, risks and integration constraints, then delivers a clear
-blueprint for the smallest useful automation or assisted workflow.
+The buyer sends one manual or repetitive workflow. Lazurio Example Organization
+reviews the goal, inputs, current tools, risks and integration constraints,
+then delivers a clear blueprint for the smallest useful automation or assisted
+workflow.
 
 ## Packages
 
@@ -205,8 +206,8 @@ asset rules.
 ## Launch checklist
 
 - Human approves publishing this gig.
-- Jan confirms Fiverr seller account/onboarding status.
-- Jan confirms whether Fiverr can be used for AgentMint commercial work.
+- Alex confirms Fiverr seller account/onboarding status.
+- Alex confirms whether Fiverr can be used for the company's commercial work.
 - No external links, off-platform payment or off-platform contact are added to
   the gig.
 - Pricing is reviewed after Fiverr buyer fee/seller fee economics.

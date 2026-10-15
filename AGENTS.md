@@ -1,9 +1,9 @@
-# Experiments — pravidla pro agenta
+# Experiments: rules for the agent
 
-Tento modul vlastní experimentální evidenci.
+This module owns the experiment records.
 
-- Nespouštěj externí akce bez explicitního lidského potvrzení.
-- Každý experiment musí mít metriku, budget, stop condition a ownera.
-- Preferuj malé reputačně bezpečné testy před agresivní distribucí.
-- Výsledek zapisuj jako důkaz, odložení nebo další experiment.
-- Citlivá finanční nebo zákaznická data anonymizuj nebo drž mimo Git.
+- Do not run external actions without explicit human confirmation.
+- Every experiment must have a metric, a budget, a stop condition and an owner.
+- Prefer small, reputation-safe tests over aggressive distribution.
+- Record the result as evidence, a deferral or a follow-up experiment.
+- Anonymize sensitive financial or customer data, or keep it out of Git.

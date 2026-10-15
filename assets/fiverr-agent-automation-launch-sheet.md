@@ -280,8 +280,8 @@ Avoid third-party logos unless Fiverr's current asset rules clearly allow them.
 
 ## Pre-publish checklist
 
-- Jan confirms Fiverr seller account/onboarding is ready.
-- Jan explicitly approves publishing this gig.
+- Alex confirms Fiverr seller account/onboarding is ready.
+- Alex explicitly approves publishing this gig.
 - No off-platform payment, external contact, Stripe, Ko-fi, Gumroad or email
   link is included in the gig.
 - Pricing is accepted with Fiverr marketplace economics.

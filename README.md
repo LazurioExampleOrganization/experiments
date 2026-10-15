@@ -1,34 +1,36 @@
-# AgentMint Experiments
+# Lazurio Example Organization experiments
 
-> **Fictional sample data.** Plány, ceny a nabídky v tomto repu jsou fiktivní
-> ukázky referenční Organizace Lazuria. Ceny jsou zástupné hodnoty v hranatých
-> závorkách (např. `[CENA PILOTU]`).
+> **Fictional sample data.** The plans, prices and offers in this repository
+> are fictional samples of Lazurio's reference Organization. Prices are
+> placeholder values in square brackets (for example `[PILOT PRICE]`).
 
-Modul pro experiment specs, run logs, metriky, výsledky a stop/scale rozhodnutí.
+A module for experiment specs, run logs, metrics, results and stop/scale
+decisions.
 
-Experiment je nejmenší bezpečný test, který může potvrdit nebo vyvrátit, že
-vybraný mechanismus umí vydělat peníze pro AgentMint.
+An experiment is the smallest safe test that can confirm or refute that a
+chosen mechanism can make money for Lazurio Example Organization.
 
-## Povinné části experimentu
+## Required parts of an experiment
 
-- hypotéza
-- cílový zákazník
-- nabídka a kanál
-- metrika úspěchu
-- rozpočet a časový limit
-- stop condition a scale condition
-- právní, ToS a reputační kontrola
-- výsledek a evidence
+- hypothesis
+- target customer
+- offer and channel
+- success metric
+- budget and time limit
+- stop condition and scale condition
+- legal, ToS and reputation check
+- result and evidence
 
-## Struktura
+## Structure
 
-- `checklists/` — opakovatelná kontrola před spuštěním experimentu
-- `shortlists/` — srovnání kandidátů a rozhodnutí, který test spustit jako první
-- `specs/` — konkrétní experiment specs připravené k lidskému schválení
-- `assets/` — pracovní nabídky, outreach drafty a call skripty
-- `templates/` — opakovatelné formuláře pro intake a run log
-- `runs/` — run logy po spuštění experimentu
+- `checklists/`: a repeatable check before an experiment starts
+- `shortlists/`: comparisons of candidates and the decision which test to run
+  first
+- `specs/`: concrete experiment specs ready for human approval
+- `assets/`: working offers, outreach drafts and call scripts
+- `templates/`: repeatable forms for intake and run logs
+- `runs/`: run logs after an experiment starts
 
-Agent smí připravit podklady, scoring, copy drafty a lokální assety. Externí
-akce, oslovení lidí, utrácení peněz a práce s klientskými daty vyžadují
-explicitní potvrzení člověka.
+The agent may prepare materials, scoring, copy drafts and local assets.
+External actions, contacting people, spending money and working with client
+data require explicit human confirmation.

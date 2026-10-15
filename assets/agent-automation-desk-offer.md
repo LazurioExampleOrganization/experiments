@@ -5,55 +5,55 @@ Experiment: `specs/2026-05-23-agent-automation-desk.md`
 
 ## One-liner
 
-Agent Automation Desk je asynchronní request fronta pro malé B2B týmy, které
-chtějí rychle převést opakovanou research, reporting nebo ops práci na
-agentně asistovaný výstup bez náboru interního automation specialisty.
+Agent Automation Desk is an asynchronous request queue for small B2B teams
+that want to quickly turn repeated research, reporting or ops work into
+agent-assisted output without hiring an in-house automation specialist.
 
 ## Pilot offer
 
-14 dní, jeden aktivní request v jednu chvíli, fixed pilot fee.
+14 days, one active request at a time, fixed pilot fee.
 
-Doporučená testovací cena:
+Recommended test price:
 
-- [CENA PILOTU] (fiktivní ilustrativní hodnota)
+- [PILOT PRICE] (fictional illustrative value)
 
-## Co klient dostane
+## What the client gets
 
-- Intake call nebo asynchronní intake.
-- Sdílenou request frontu.
-- Jeden aktivní request najednou.
-- Výstupy typu research brief, enrichment tabulka, SOP, report, automation
-  blueprint nebo lokální prototyp.
+- An intake call or an asynchronous intake.
+- A shared request queue.
+- One active request at a time.
+- Outputs such as a research brief, an enrichment table, an SOP, a report, an
+  automation blueprint or a local prototype.
 - Human-reviewed delivery.
-- Závěrečný summary: co šlo automatizovat, co se opakuje, co by dávalo smysl
-  převést na retainer.
+- A closing summary: what could be automated, what repeats, what would make
+  sense to turn into a retainer.
 
-## Co klient nedostává
+## What the client does not get
 
-- Garantovaný počet leadů, meetings nebo revenue.
-- Masový outbound.
-- Přístup do jeho účtů bez samostatného schválení.
-- Automatizace, která něco posílá nebo mění v externích systémech bez lidského
-  potvrzení.
-- Custom software projekt bez nového scope.
+- A guaranteed number of leads, meetings or revenue.
+- Mass outbound.
+- Access to their accounts without a separate approval.
+- Automation that sends or changes anything in external systems without human
+  confirmation.
+- A custom software project without a new scope.
 
-## Pro koho to je
+## Who it is for
 
-- Founder-led B2B firma.
-- Malá agentura.
-- Consultant s opakovanou research/reporting prací.
-- Ops člověk, který ví, co se opakuje, ale nemá kapacitu to systematizovat.
+- A founder-led B2B company.
+- A small agency.
+- A consultant with repeated research/reporting work.
+- An ops person who knows what repeats but has no capacity to systematize it.
 
-## Pro koho to není
+## Who it is not for
 
-- Tým, který hledá levnou náhradu full-time developera.
-- Firma, která potřebuje garantovaný sales output.
-- Klient, který chce automatizovat nevyžádaný masový outreach.
-- Workflow s citlivými daty bez jasného souhlasu, právního rámce a bezpečného
-  storage.
+- A team looking for a cheap replacement for a full-time developer.
+- A company that needs guaranteed sales output.
+- A client who wants to automate unsolicited mass outreach.
+- A workflow with sensitive data without clear consent, a legal framework and
+  secure storage.
 
 ## CTA draft
 
-Chceš mi poslat jeden opakovaný ruční proces, který tě teď stojí čas? Vrátím
-ti do 48 hodin návrh, jestli se hodí do pilotu a co by byl první měřitelný
-výstup.
+Would you send me one repeated manual process that is costing you time right
+now? Within 48 hours I will send you back a proposal on whether it fits the
+pilot and what the first measurable output would be.
